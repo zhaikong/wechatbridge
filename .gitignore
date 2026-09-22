@@ -32,7 +32,6 @@ DerivedData/
 *.log
 
 # Editors
-.vscode/
 .idea/
 *.swp
 
@@ -44,8 +43,6 @@ DerivedData/
 *.p8
 
 # Local environment files
-.env
-.env.*
 !.env.example
 
 # Local design exploration output
@@ -63,3 +60,5 @@ memory/
 # Python byte-code from local scripts
 __pycache__/
 *.pyc
+config.bat
+node_modules
